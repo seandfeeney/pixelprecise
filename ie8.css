@@ -1,0 +1,26 @@
+#twitwrap {
+	background-image: none !important;
+}
+
+#twitwrap #leftcol {
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://localhost/wplocal/pixelprecisedesigns.com/wp-content/themes/PixelPrecise/images/Twitter-bubble.png', sizingMethod='scale');
+	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://localhost/wplocal/pixelprecisedesigns.com/wp-content/themes/PixelPrecise/images/Twitter-bubble.png', sizingMethod='scale')";
+	padding: 15% 15% 15% 20% !important;
+	margin: 0% 0 0 0 !important;
+}
+
+#twitwrap > #leftcol:before, #twitwrap > #leftcol:after, #custquote > #rightcol:before, #custquote > #rightcol:after {
+	display: none !important;
+}
+
+#lightpurplewrap {
+	padding-bottom: 0 !important;
+}
+
+.entry-content {
+padding: 10px 0;
+}
+
+hr {
+padding: 10px 0;
+}

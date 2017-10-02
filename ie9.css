@@ -1,0 +1,15 @@
+.menu {
+	margin-right: 3% !important;
+}
+
+#twitwrap {
+	margin-top: 3% !important;
+}
+
+#custquote > #rightcol:before {
+	margin-top: -3% !important;
+}
+
+#rightcol {
+	width: 31%;
+}
